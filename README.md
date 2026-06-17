@@ -42,3 +42,9 @@ Topics:
 - ps
 - top
 - grep
+
+## System Calls
+- open()
+- read()
+- write()
+- close()
