@@ -28,3 +28,7 @@ Topics:
 - Virtual memory
 - Page table
 - TLB
+
+## File System
+- Inode
+- Directory structure
