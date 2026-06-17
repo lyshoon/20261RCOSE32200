@@ -14,3 +14,7 @@ Topics:
 ## Process
 - Process has its own address space.
 - Created using fork().
+
+## Thread
+- Threads share memory.
+- Created using pthread_create().
