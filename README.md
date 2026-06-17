@@ -18,3 +18,8 @@ Topics:
 ## Thread
 - Threads share memory.
 - Created using pthread_create().
+
+## Synchronization
+- Mutex
+- Semaphore
+- Race condition
