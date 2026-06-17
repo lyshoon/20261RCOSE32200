@@ -36,3 +36,9 @@ Topics:
 ## Socket Programming
 - TCP socket
 - UDP socket
+
+## Linux Commands
+- ls
+- ps
+- top
+- grep
