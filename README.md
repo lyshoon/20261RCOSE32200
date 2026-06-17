@@ -32,3 +32,7 @@ Topics:
 ## File System
 - Inode
 - Directory structure
+
+## Socket Programming
+- TCP socket
+- UDP socket
