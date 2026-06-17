@@ -10,3 +10,7 @@ Topics:
 - File Systems
 - Networking
 - Linux System Calls
+
+## Process
+- Process has its own address space.
+- Created using fork().
